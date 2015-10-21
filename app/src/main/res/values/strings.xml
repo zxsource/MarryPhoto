@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MarryPhoto</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_category">分类</string>
+    <string name="menu_category_all">全部</string>
+    <string name="menu_category_merry">婚礼</string>
+    <string name="menu_category_modify">精修</string>
+    <string name="menu_category_normal">正常</string>
+    <string name="menu_category_daily">日常</string>
+
+</resources>
